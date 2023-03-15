@@ -17,3 +17,9 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+.bgImage {
+  background-image: url('/public/herobg.png');
+  backgroun-size: cover;
+  background-position: center;
+}
